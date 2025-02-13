@@ -3,7 +3,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #fae1dd;
+  background-image: url('dahab.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .container {
